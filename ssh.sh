@@ -1,4 +1,4 @@
-#!/bin/bash
+set -e
 
 echo "***Teste de script SSH***";
 
