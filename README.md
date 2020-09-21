@@ -4,7 +4,7 @@
 - Configuração [git](https://github.com/marciordj/script/blob/master/gitConfig.sh)
 - Configuração [SSH](https://github.com/marciordj/script/blob/master/ssh.sh)
 
-### Para executar esses scripts, bast rodar `./arquivo.sh` 
+Para executar esses scripts, bast rodar `./arquivo.sh` 
 
 
-### Ps: Ainda estão em testes, estou usando esses scripts para estudo.
+Ps: Ainda estão em testes, estou usando esses scripts para estudo.
