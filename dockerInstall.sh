@@ -5,9 +5,6 @@ echo "Docker install";
 echo "curl install";
 sudo apt install curl -y
 
-echo "Remove docker if existing";
-sudo apt-get remove docker docker-engine docker.io containerd runc -y
-
 echo "Install Docker";
 sudo apt update
 sudo apt install \
